@@ -7,36 +7,14 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 # 🌟 Professional Highlights
 
 - 🎓 Bachelor of Engineering in Computer Science & Engineering (VTU)
+- 🤖 Completed AI & Data Science Internship at Tech Cubic Innovations
 - 💼 Former System Engineer Trainee at Infosys
-- ☎ Former Customer Service Associate at Tech Mahindra
-- 🤖 AI & Data Science Intern at Tech Cubic Innovations
+- ☎  Former Customer Service Associate at Tech Mahindra
 - 📊 Building an end-to-end Data Analytics, Machine Learning, and AI portfolio
 - 💡 Passionate about solving business problems using data-driven solutions
 
 🎯 **Career Goal:** Become an AI Engineer by combining Data Analytics, Machine Learning, Cloud Computing, MLOps, and Enterprise AI Systems.
 
-
-# 💼 Professional Experience
-
-### 💻 Infosys — System Engineer Trainee
-- Worked in a professional software engineering environment.
-- Strengthened analytical thinking, debugging, and problem-solving skills.
-- Gained exposure to enterprise software development workflows.
-
-### ☎ Tech Mahindra — Customer Service Associate
-- Developed strong communication, customer support, and problem-resolution skills in a fast-paced corporate environment.
-
-### 🤖 Tech Cubic Innovations — AI & Data Science Intern
-- Completed practical training in Artificial Intelligence and Data Science.
-- Worked with data preprocessing, analytics, and machine learning fundamentals.
-
-# 🎓 Education
-
-**Bachelor of Engineering (Computer Science & Engineering)**
-
-Jain College of Engineering and Technology
-
-Visvesvaraya Technological University (VTU)
 
 # 💻 Technical Skills
 
