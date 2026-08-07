@@ -81,19 +81,19 @@
 
 # 🚀 Data Science Portfolio Roadmap
 
-## 📊 Phase 1 — Data Analytics (Current Level)
+## 📊 Phase 1 — Data Analytics 🔄 Ongoing 
 
 - 🏦 Bank Customer Churn Analysis ✅ Completed
 - 🛍  E-commerce Sales Dashboard 🚧 In Progress
-- 👨‍💼 Employee Dashboard ⏭️ Next 
-- 🏥 Hospital Patient Dashboard 
-- 🚗 Car Sales Dashboard 
-- 🌾 Crop Production Dashboard
-- 🛡 Network Traffic Dashboard
-- 🛰 Satellite Image Dashboard
-- 🏏 IPL Dashboard
+- 👨‍💼 Employee Dashboard 🔜 Next 
+- 🏥 Hospital Patient Dashboard ⚪ Not Started
+- 🚗 Car Sales Dashboard ⚪ Not Started
+- 🌾 Crop Production Dashboard ⚪ Not Started
+- 🛡 Network Traffic Dashboard ⚪ Not Started
+- 🛰 Satellite Image Dashboard ⚪ Not Started
+- 🏏 IPL Dashboard ⚪ Not Started
 
-## 🤖 Phase 2 — Machine Learning
+## 🤖 Phase 2 — Machine Learning 📅 Planned 
 
 - 🏦 Loan Default Prediction
 - 🏥 Disease Prediction
@@ -105,7 +105,7 @@
 - 🛡 Intrusion Detection
 - 🛰 Land Cover Classification
 
-## 🚀 Phase 3 — AI Systems
+## 🚀 Phase 3 — AI Systems 📅 Planned
 
 - AI Credit Risk Decision System
 - AI HR Platform
@@ -116,7 +116,7 @@
 - AI Threat Detection Platform
 - Earth Observation AI Platform
 
-## 🧠 Phase 4 — Generative AI
+## 🧠 Phase 4 — Generative AI 📅 Planned 
 
 - LLM + RAG Knowledge Assistant
 - AI Document Intelligence
@@ -127,7 +127,6 @@
 
 - 💼 LinkedIn: www.linkedin.com/in/jeisamathew
 - 💻 GitHub: https://github.com/JEISAMATHEW
-- 📧 Email: jeisausn2jh18cs025@gmail.com
 
 <div align="center">
 
