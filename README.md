@@ -18,7 +18,8 @@
 
 </h3>
 
-🎯 **Career Goal:** Become an AI Engineer by combining Data Analytics, Machine Learning, Cloud Computing, MLOps, and Enterprise AI Systems.
+🎯 **Career Goal:** 
+To become a Data Scientist by mastering Data Analytics, Machine Learning, and Artificial Intelligence, and contribute to solving real-world business problems in a leading global technology company.
 
 # 🌟 Professional Highlights
 
