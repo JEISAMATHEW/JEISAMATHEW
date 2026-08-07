@@ -109,23 +109,6 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 - Multi-Agent AI Workflow
 - Enterprise MLOps Platform
 
-# 📜 Certifications
-
-- Data Analysis using Excel
-- Advanced SQL Functions and Formulas
-- Basic Querying with MySQL
-- Introduction to Tableau
-
-# 🎯 Current Focus
-
-- 📊 Advanced SQL & Data Analytics
-- 🐍 Python for Data Analysis
-- 📈 Interactive Power BI Dashboards
-- 🤖 Machine Learning
-- ☁ Cloud Computing & MLOps
-- 🚀 Building Industry-Level Portfolio Projects
-- 🌍 Open Source & GitHub Contributions
-
 # 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/jeisamathew
