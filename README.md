@@ -6,12 +6,6 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast;SQL+Developer;Python+Developer;Power+BI+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Learner;Building+Real+World+Business+Projects"/>
-
-</p>
-
-<p align="center">
-
 <a href="https://github.com/JEISAMATHEW">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
