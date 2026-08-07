@@ -4,6 +4,8 @@
 Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 </h3>
 
+🎯 **Career Goal:** Become an AI Engineer by combining Data Analytics, Machine Learning, Cloud Computing, MLOps, and Enterprise AI Systems.
+
 # 🌟 Professional Highlights
 
 - 🎓 Bachelor of Engineering in Computer Science & Engineering (VTU)
@@ -13,8 +15,14 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 - 📊 Building an end-to-end Data Analytics, Machine Learning, and AI portfolio
 - 💡 Passionate about solving business problems using data-driven solutions
 
-🎯 **Career Goal:** Become an AI Engineer by combining Data Analytics, Machine Learning, Cloud Computing, MLOps, and Enterprise AI Systems.
+# 📚 Academic Projects
 
+- 🫁 COVID-19 Detection using CNN
+- 📱 Android File Management Application
+- 🏥 Hospital Database Management System
+- 🖼 Image Recognition & Classification
+- 🎮 Java Quiz Application
+- 🚤 Computer Graphics Animation
 
 # 💻 Technical Skills
 
@@ -48,9 +56,6 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 
 - Git
 - GitHub
-- Docker (Learning)
-- FastAPI (Learning)
-- MLOps (Learning)
 
 ## 🛠 Tools
 
@@ -60,39 +65,14 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 - Android Studio
 - Microsoft Office
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JEISAMATHEW&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEISAMATHEW&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEISAMATHEW&theme=tokyonight&hide_border=true"/>
-</p>
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEISAMATHEW&theme=tokyo-night"/>
-</p>
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JEISAMATHEW&theme=tokyonight&row=2&column=4"/>
-</p>
-
-# 🚀 Portfolio Roadmap
+# 🚀 Data Science Portfolio Roadmap
 
 ## 📊 Phase 1 — Data Analytics (Current Level)
 
 - 🏦 Bank Customer Churn Analysis ✅ Completed
 - 🛍  E-commerce Sales Dashboard 🚧 In Progress
 - 👨‍💼 Employee Dashboard ⏭️ Next 
-- 🏥 Hospital Patient Dashboard
+- 🏥 Hospital Patient Dashboard 
 - 🚗 Car Sales Dashboard 
 - 🌾 Crop Production Dashboard
 - 🛡 Network Traffic Dashboard
@@ -129,31 +109,6 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 - Multi-Agent AI Workflow
 - Enterprise MLOps Platform
 
-# 🌟 Featured Repositories
-
-⭐ Bank Customer Churn Analysis
-
-⭐ E-commerce Sales Dashboard
-
-⭐ SQL Practice Repository
-
-⭐ Python Data Analytics Projects
-
-⭐ Power BI Dashboards
-
-⭐ Machine Learning Projects
-
-⭐ AI Systems Portfolio
-
-# 📚 Academic Projects
-
-- 🫁 COVID-19 Detection using CNN
-- 📱 Android File Management Application
-- 🏥 Hospital Database Management System
-- 🖼 Image Recognition & Classification
-- 🎮 Java Quiz Application
-- 🚤 Computer Graphics Animation
-
 # 📜 Certifications
 
 - Data Analysis using Excel
@@ -174,7 +129,7 @@ Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
 # 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/jeisamathew
-- 💻 GitHub: github.com/JEISAMATHEW
+- 💻 GitHub: https://github.com/JEISAMATHEW
 - 📧 Email: jeisausn2jh18cs025@gmail.com
 
 <div align="center">
