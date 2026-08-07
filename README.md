@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jeisa Mathew</h1>
 
 <h3 align="center">
-Data Analyst | SQL | Python | Power BI | Aspiring Machine Learning & AI Engineer
+
+<img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </h3>
 
 🎯 **Career Goal:** Become an AI Engineer by combining Data Analytics, Machine Learning, Cloud Computing, MLOps, and Enterprise AI Systems.
