@@ -44,28 +44,9 @@ To become a Data Scientist by mastering Data Analytics, Machine Learning, and Ar
 ## 📊 Data Analytics
 
 - Microsoft Excel
-- SQL
 - Power BI
 - Tableau
 
-## 🐍 Programming
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-
-## 🗄 Databases
-
-- MySQL
-- SQLite
-
-## 🤖 Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI (Learning)
 
 ## ☁ Cloud & Deployment
 
@@ -74,55 +55,10 @@ To become a Data Scientist by mastering Data Analytics, Machine Learning, and Ar
 
 ## 🛠 Tools
 
-- VS Code
-- Jupyter Notebook
 - Kaggle
-- Android Studio
 - Microsoft Office
+- Microsoft Power BI
 
-# 🚀 Data Science Portfolio Roadmap
-
-## 📊 Phase 1 — Data Analytics 🔄 Ongoing 
-
-- 🏦 Bank Customer Churn Analysis ✅ Completed
-- 🛍  E-commerce Sales Dashboard 🚧 In Progress
-- 👨‍💼 Employee Dashboard 🔜 Next 
-- 🏥 Hospital Patient Dashboard ⚪ Not Started
-- 🚗 Car Sales Dashboard ⚪ Not Started
-- 🌾 Crop Production Dashboard ⚪ Not Started
-- 🛡 Network Traffic Dashboard ⚪ Not Started
-- 🛰 Satellite Image Dashboard ⚪ Not Started
-- 🏏 IPL Dashboard ⚪ Not Started
-
-## 🤖 Phase 2 — Machine Learning 📅 Planned 
-
-- 🏦 Loan Default Prediction
-- 🏥 Disease Prediction
-- 🚗 Used Car Price Prediction
-- 🛒 Customer Segmentation
-- 👨‍💼 Employee Attrition Prediction
-- 🌾 Crop Yield Prediction
-- 🏏 Player Performance Prediction
-- 🛡 Intrusion Detection
-- 🛰 Land Cover Classification
-
-## 🚀 Phase 3 — AI Systems 📅 Planned
-
-- AI Credit Risk Decision System
-- AI HR Platform
-- Recommendation & Pricing Engine
-- Smart Farming AI
-- AI Hospital Management Platform
-- Sports Intelligence Platform
-- AI Threat Detection Platform
-- Earth Observation AI Platform
-
-## 🧠 Phase 4 — Generative AI 📅 Planned 
-
-- LLM + RAG Knowledge Assistant
-- AI Document Intelligence
-- Multi-Agent AI Workflow
-- Enterprise MLOps Platform
 
 # 📫 Connect With Me
 
