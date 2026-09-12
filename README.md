@@ -42,6 +42,7 @@ To become a Data Scientist by mastering Data Analytics, Machine Learning, and Ar
 - Microsoft Excel
 - Power BI
 - Tableau
+- SQL
 
 
 ## ☁ Cloud & Deployment
@@ -54,12 +55,14 @@ To become a Data Scientist by mastering Data Analytics, Machine Learning, and Ar
 - Kaggle
 - Microsoft Office
 - Microsoft Power BI
+- Tableau
 
 
 # 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/jeisamathew
 - 💻 GitHub: https://github.com/JEISAMATHEW
+- 💻 Personal Portfolio: https://jeisamathew.github.io/
 
 <div align="center">
 
