@@ -95,9 +95,6 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
   <img src="https://streak-stats.demolab.com/?user=JEISAMATHEW&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEISAMATHEW&layout=compact&hide_border=true" width="48%"/>
-</p>
 
 ---
 
