@@ -67,7 +67,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 
 ### 📊 Data Analytics Projects
 
-1️⃣ Excel & GenAI for Analytics
+**1️⃣ Excel & Gen-AI for Analytics **
 
 | Project | Description |
 |---|---|
