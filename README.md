@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeisa Mathew</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analytics • Machine Learning • AI</h3>
+<h3 align="center">Aspiring Tableau Developer | Data Analytics | Data Scientist | Machine Learning | AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau%20Developer-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 ### 🎯 Career Goal
 
-To become a **Data Scientist** by mastering Data Analytics, Machine Learning, and Artificial Intelligence — and to contribute to solving real-world business problems at a leading global technology company.
+To grow as a **Tableau Developer and Data Analyst**, building toward a future in **Data Science**, by mastering Data Analytics, Machine Learning, and Artificial Intelligence — and to contribute to solving real-world business problems at a leading global technology company.
 
 ---
 
