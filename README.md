@@ -82,7 +82,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | 🎮 **Java Quiz Application** | Interactive quiz app built in Java |
 | 🚤 **Computer Graphics Animation** | Animation project applying computer graphics concepts |
 
-> 🔗 *Add repo links to each academic project title above once uploaded, so visitors can jump straight to the code.*
+> 🔗 *Group Project - codes are not individually hosted*
 
 ---
 
