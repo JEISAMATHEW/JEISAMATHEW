@@ -65,7 +65,13 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 
 ---
 
-### 📚 Academic & Portfolio Projects
+### 📊 Data Analytics Projects
+
+| Project | Description |
+|---|---|
+| ⚡ **[EV Charging Recommendation Dashboard](https://github.com/JEISAMATHEW/EV_Recommendation_Dashboard)** | Excel-based dashboard recommending the optimal EV charging station using a weighted score across distance, queue length, and battery level — built during Module 1: Excel & GenAI for Analytics |
+
+### 🎓 Academic Projects (College)
 
 | Project | Description |
 |---|---|
@@ -76,7 +82,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | 🎮 **Java Quiz Application** | Interactive quiz app built in Java |
 | 🚤 **Computer Graphics Animation** | Animation project applying computer graphics concepts |
 
-> 🔗 *Group project — codes are not individually hosted*
+> 🔗 *Add repo links to each academic project title above once uploaded, so visitors can jump straight to the code.*
 
 ---
 
