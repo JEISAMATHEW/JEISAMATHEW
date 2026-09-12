@@ -75,6 +75,18 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | 🛍️ **[RetailNow – From Messy Data to Business Decisions](https://github.com/JEISAMATHEW/RetailNow-GenAI-Sales-Case-Study)** | Cleaned a messy 415-row retail sales export in Excel and used Generative AI as an analysis partner to turn pivot tables into a board-ready business insights report |
 | ⚡ **[EV Charging Recommendation Dashboard](https://github.com/JEISAMATHEW/EV_Recommendation_Dashboard)** | Excel-based dashboard recommending the optimal EV charging station using a weighted score across distance, queue length, and battery level — built during Module 1: Excel & GenAI for Analytics |
 
+### 🤖 AI & Data Science Internship Projects
+
+**Tech Cubic Innovations Pvt Ltd — 4-Week Internship**
+
+| Project | Description |
+|---|---|
+| 🏠 **Home Price Prediction App** | Built a linear regression model in Jupyter Notebook to predict home prices from area, with a Tkinter GUI for real-time input and prediction |
+| 📈 **Stock Price Trend Dashboard** | Visualized Apple stock price trends and volume using line, bar, and bubble charts in Tableau Public |
+| 🎙️ **Voice Assistant (Alexa Clone)** | Developed a Python-based voice assistant in PyCharm using speech recognition to play songs, tell time, fetch Wikipedia summaries, and tell jokes |
+| 💬 **Chatbot Web Application** | Designed a responsive chatbot interface using HTML, Bootstrap (MDB5), and Dialogflow for conversational AI integration |
+| 🚗 **Car Selling Price Prediction App** | Created a linear regression model to predict car selling price based on year of registration, with an interactive Tkinter GUI |
+
 ### 🎓 Academic Projects (College)
 
 | Project | Description |
