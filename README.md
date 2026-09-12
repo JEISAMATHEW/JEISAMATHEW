@@ -95,9 +95,13 @@ To become a **Data Scientist** by mastering Data Analytics, Machine Learning, an
 
 ### 🌱 Currently Learning
 
-- Advanced Machine Learning algorithms & model deployment
-- Deep Learning frameworks (TensorFlow / PyTorch)
-- Advanced SQL & data warehousing concepts
+Pursuing the **Advanced Certificate in Data Science** (upGrad, offline/classroom program):
+
+- 📊 Statistics & Data Visualization
+- 🗄 Advanced SQL & Database concepts
+- 🐍 Python for Data Science
+- 🤖 Machine Learning algorithms
+- 🧠 Artificial Intelligence & Generative AI tools
 
 ---
 
