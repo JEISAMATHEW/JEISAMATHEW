@@ -69,6 +69,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 
 | Project | Description |
 |---|---|
+| 📊 **[Excel Business Analysis – Practical Case Studies](https://github.com/JEISAMATHEW/Excel-Business-Analysis-Case-Studies)** | Four Excel case studies covering Gantt Charts, Sales Forecasting, What-If Analysis, and Scenario Comparison — simulating real Business Analyst decision-making workflows |
 | ⚡ **[EV Charging Recommendation Dashboard](https://github.com/JEISAMATHEW/EV_Recommendation_Dashboard)** | Excel-based dashboard recommending the optimal EV charging station using a weighted score across distance, queue length, and battery level — built during Module 1: Excel & GenAI for Analytics |
 
 ### 🎓 Academic Projects (College)
