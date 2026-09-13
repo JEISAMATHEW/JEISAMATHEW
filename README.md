@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jeisamathew"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JEISAMATHEW"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://jeisamathew.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -69,13 +72,14 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 |---|---|
 | 📊 **[Excel Business Analysis – Practical Case Studies](https://github.com/JEISAMATHEW/Excel-Business-Analysis-Case-Studies)** | Four Excel case studies covering Gantt Charts, Sales Forecasting, What-If Analysis, and Scenario Comparison — simulating real Business Analyst decision-making workflows |
 | 🛍️ **[RetailNow – From Messy Data to Business Decisions](https://github.com/JEISAMATHEW/RetailNow-GenAI-Sales-Case-Study)** | Cleaned a messy 415-row retail sales export in Excel and used Generative AI as an analysis partner to turn pivot tables into a board-ready business insights report |
-| ⚡ **[EV Charging Recommendation Dashboard](https://github.com/JEISAMATHEW/EV_Recommendation_Dashboard)** | Excel-based dashboard recommending the optimal EV charging station using a weighted score across distance, queue length, and battery level|
+| ⚡ **[EV Charging Recommendation Dashboard](https://github.com/JEISAMATHEW/EV_Recommendation_Dashboard)** | Excel-based dashboard recommending the optimal EV charging station using a weighted score across distance, queue length, and battery level — built during Module 1: Excel & GenAI for Analytics |
 
 **2️⃣ Power BI & Tableau**
 
 | Project | Description |
 |---|---|
-| 🏫 **[Greenfield High School – Power BI Data Modeling](https://github.com/JEISAMATHEW/Greenfield-School-PowerBI-Dashboard)** | Modeled a related 4-table school dataset (students, marks, attendance, fees) in Power BI, built 7 calculated columns, 8 DAX measures, and 3 calculated tables, and shipped a KPI dashboard on academic performance and fee collection|
+| 🏫 **[Greenfield High School – Power BI Data Modeling](https://github.com/JEISAMATHEW/Greenfield-School-PowerBI-Dashboard)** | Modeled a related 4-table school dataset (students, marks, attendance, fees) in Power BI, built 7 calculated columns, 8 DAX measures, and 3 calculated tables, and shipped a KPI dashboard on academic performance and fee collection — built during Module 2: Power BI & Tableau |
+| 🚕 **[Uber Ride Bookings – Data Analysis Dashboard](https://github.com/JEISAMATHEW/Uber-Data-Analysis-Tableau-Dashboard)** | Cleaned a raw 150,000-row NCR ride-bookings export down to 148,767 records, geocoded every pickup/drop location, and built a multi-tab Tableau story covering bookings, vehicle mix, revenue, cancellations, and ratings — built during Module 2: Power BI & Tableau |
 
 > 🔗 *Individual Projects, codes are hosted in the GitHub Itself*
 
