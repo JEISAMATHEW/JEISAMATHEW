@@ -81,6 +81,8 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 |---|---|
 | 🏫 **[Greenfield High School – Power BI Data Modeling](https://github.com/JEISAMATHEW/Greenfield-School-PowerBI-Dashboard)** | Modeled a related 4-table school dataset (students, marks, attendance, fees) in Power BI, built 7 calculated columns, 8 DAX measures, and 3 calculated tables, and shipped a KPI dashboard on academic performance and fee collection — built during Module 2: Power BI & Tableau |
 
+> 🔗 *Individual Projects, codes are hosted in the GitHub Itself*
+
 ### 🤖 AI & Data Science Internship Projects
 
 **Tech Cubic Innovations Pvt Ltd — 4-Week Internship**
@@ -93,6 +95,8 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | 💬 **Chatbot Web Application** | Designed a responsive chatbot interface using HTML, Bootstrap (MDB5), and Dialogflow for conversational AI integration |
 | 🚗 **Car Selling Price Prediction App** | Created a linear regression model to predict car selling price based on year of registration, with an interactive Tkinter GUI |
 
+> 🔗 *Individual Projects but codes are not hosted*
+
 ### 🎓 Academic Projects (College)
 
 | Project | Description |
@@ -104,7 +108,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | 🎮 **Java Quiz Application** | Interactive quiz app built in Java |
 | 🚤 **Computer Graphics Animation** | Animation project applying computer graphics concepts |
 
-> 🔗 *Group Project - codes are not individually hosted*
+> 🔗 *Group Project but codes are not individually hosted*
 
 ---
 
