@@ -78,8 +78,8 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 
 | Project | Description |
 |---|---|
-| 🏫 **[Greenfield High School – Power BI Data Modeling](https://github.com/JEISAMATHEW/Greenfield-School-PowerBI-Dashboard)** | Modeled a related 4-table school dataset (students, marks, attendance, fees) in Power BI, built 7 calculated columns, 8 DAX measures, and 3 calculated tables, and shipped a KPI dashboard on academic performance and fee collection — built during Module 2: Power BI & Tableau |
-| 🚕 **[Uber Ride Bookings – Data Analysis Dashboard](https://github.com/JEISAMATHEW/Uber-Data-Analysis-Tableau-Dashboard)** | Cleaned a raw 150,000-row NCR ride-bookings export down to 148,767 records, geocoded every pickup/drop location, and built a multi-tab Tableau story covering bookings, vehicle mix, revenue, cancellations, and ratings — built during Module 2: Power BI & Tableau |
+| 🏫 **[Greenfield High School – Power BI Data Modeling](https://github.com/JEISAMATHEW/Greenfield-School-PowerBI-Dashboard)** | Modeled a related 4-table school dataset (students, marks, attendance, fees) in Power BI, built 7 calculated columns, 8 DAX measures, and 3 calculated tables, and shipped a KPI dashboard on academic performance and fee collection |
+| 🚕 **[Uber Ride Bookings – Data Analysis Dashboard](https://github.com/JEISAMATHEW/Uber-Data-Analysis-Tableau-Dashboard)** | Cleaned a raw 150,000-row NCR ride-bookings export down to 148,767 records, geocoded every pickup/drop location, and built a multi-tab Tableau story covering bookings, vehicle mix, revenue, cancellations, and ratings |
 
 > 🔗 *Individual Projects, codes are hosted in the GitHub Itself*
 
