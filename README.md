@@ -136,6 +136,13 @@ Pursuing the **Advanced Certificate in Data Science** (upGrad) — a 6-module, G
 
 ---
 
+### 🏅 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🤖 **AI & Data Science Internship (4 Weeks)** | Tech Cubic Innovations Pvt Ltd | 2026 |
+
+
 ### 📫 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/jeisamathew](https://www.linkedin.com/in/jeisamathew)
