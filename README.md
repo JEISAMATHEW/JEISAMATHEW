@@ -113,7 +113,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEISAMATHEW&hide_border=true&bg_color=ffffff&color=333333&line=4CAF50&point=4CAF50&title_color=333333" width="100%"/>
+  <img src="https://ghchart.rshah.org/4CAF50/JEISAMATHEW" width="100%"/>
 </p>
 
 
