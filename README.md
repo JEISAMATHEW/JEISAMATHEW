@@ -138,7 +138,7 @@ Pursuing the **Advanced Certificate in Data Science** (upGrad) — a 6-module, G
 
 ### 🏅 Certifications
 
-| Certification | Issuer | Year | Certificate |
+| Certification | Issuer | Year |
 |---|---|---|---|
 | 🏆 **SQL (Advanced) Certificate** | HackerRank | Oct 2026 |
 | 🏆 **SQL (Intermediate) Certificate** | HackerRank | Sep 2026 |
