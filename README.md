@@ -138,14 +138,14 @@ Pursuing the **Advanced Certificate in Data Science** (upGrad) — a 6-module, G
 
 ### 🏅 Certifications
 
-| Certification | Issuer | Year |
-|---|---|---|---|
+| Certification | Issuer | Year | 
+|---|---|---|
+| 🤖 **AI & Data Science Internship (4 Weeks)** | Tech Cubic Innovations Pvt Ltd | 2022 |
 | 🏆 **SQL (Advanced) Certificate** | HackerRank | Oct 2026 |
 | 🏆 **SQL (Intermediate) Certificate** | HackerRank | Sep 2026 |
-| 🏆 **SQL (Basic) Certificate** | HackerRank | Sep 2026 | 
-| 🥇 **Data Navigator Badge** | LeetCode | Oct 2026 | 
+| 🏆 **SQL (Basic) Certificate** | HackerRank | Sep 2026 |
+| 🥇 **Data Navigator Badge** | LeetCode | Oct 2026 |
 | 📊 **Data Visualisation with Tableau** | upGrad | Jul 2026 |
-| 🤖 **AI & Data Science Internship (4 Weeks)** | Tech Cubic Innovations Pvt Ltd | 2022 |
 
 ### 📫 Connect With Me
 
