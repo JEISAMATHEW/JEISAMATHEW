@@ -79,6 +79,13 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | 🚕 **[Uber Ride Bookings – Data Analysis Dashboard](https://github.com/JEISAMATHEW/Uber-Data-Analysis-Tableau-Dashboard)** | Cleaned a raw 150,000-row NCR ride-bookings export down to 148,767 records, geocoded every pickup/drop location, and built a multi-tab Tableau story covering bookings, vehicle mix, revenue, cancellations, and ratings |
 | 📦 **[Retail Inventory Forecast Dashboard](https://github.com/JEISAMATHEW/Retail-inventory-forecast-dashboard)** | Cleaned and validated a 76,000-row, 5-store × 20-SKU retail dataset in Excel Power Query, then built forecast and inventory-risk calculated fields in Tableau, shipping a two-tab dashboard that flags stockout/overstock risk and recommends reorder, transfer, or hold actions |
 
+**3️⃣ SQL (with Cloud Integration)**
+
+| Project | Description |
+|---|---|
+| 🌾 **[PMFBY Farmers Insurance SQL Analysis](https://github.com/JEISAMATHEW/PMFBY-Farmers-Insurance-SQL-Analysis)** | Loaded 1,870 district-level records from NITI Aayog's NDAP crop insurance data into MySQL with NULL-safe cleaning, then wrote 26 queries on farmer coverage, premiums and population using aggregation, joins, subqueries and top-N analysis |
+
+
 > 🔗 *Individual Projects, codes are hosted in the GitHub Itself*
 
 ### 🤖 AI & Data Science Internship Projects
