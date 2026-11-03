@@ -84,7 +84,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | Project | Description |
 |---|---|
 | 🌾 **[PMFBY Farmers Insurance SQL Analysis](https://github.com/JEISAMATHEW/PMFBY-Farmers-Insurance-SQL-Analysis)** | Loaded 1,870 district-level records from NITI Aayog's NDAP crop insurance data into MySQL with NULL-safe cleaning, then wrote 26 queries on farmer coverage, premiums and population using aggregation, joins, subqueries and top-N analysis |
-
+| 🛍️ **[Myntra E-commerce SQL Analysis](https://github.com/JEISAMATHEW/Myntra-Ecommerce-SQL-Analysis)** | Built a self-designed e-commerce database in MySQL with customers, products, employees and orders, then developed 17 sections of queries covering sales trends, product profitability, employee target achievement and customer behavior using joins, subqueries, CTEs, window functions, stored procedures and business KPI reporting |
 
 > 🔗 *Individual Projects, codes are hosted in the GitHub Itself*
 
