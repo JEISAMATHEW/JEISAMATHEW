@@ -130,14 +130,14 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 
 Pursuing the **Advanced Certificate in Data Science** (upGrad) — a 6-module, GenAI-integrated program:
 
-| Module | Focus | Timeline |
-|---|---|---|
-| 1️⃣ Excel & GenAI for Analytics | CRISP-DM, advanced formulas, Goal Seek/Scenario Manager, GenAI-assisted reporting | Aug 2026 |
-| 2️⃣ Power BI & Tableau | ETL, data modeling, DAX, GenAI-assisted data storytelling | Sep 2026 |
-| 3️⃣ SQL (with Cloud Integration) | Advanced SQL, query optimization, Azure Cloud integration | Oct 2026 |
-| 4️⃣ Python for Data Analysis | NumPy, Pandas, OOP, EDA with GenAI support | Nov 2026 |
-| 5️⃣ Statistics & Probability (AI-assisted) | Hypothesis testing, ANOVA, Chi-square, AI-assisted interpretation | Dec 2026 |
-| 6️⃣ AI & Machine Learning | 18+ ML algorithms, Deep Learning (CNN/RNN/LSTM), GenAI, RAG, LLM workflows, model deployment | Jan 2027 |
+| Module | Focus | Timeline | Progress |
+|---|---|---|---|
+| 1️⃣ Excel & GenAI for Analytics | CRISP-DM, advanced formulas, Goal Seek/Scenario Manager, GenAI-assisted reporting | Aug 2026 | ✅ |
+| 2️⃣ Power BI & Tableau | ETL, data modeling, DAX, GenAI-assisted data storytelling | Sep 2026 | ✅ |
+| 3️⃣ SQL (with Cloud Integration) | Advanced SQL, query optimization, Azure Cloud integration | Oct 2026 | ✅ |
+| 4️⃣ Python for Data Analysis | NumPy, Pandas, OOP, EDA with GenAI support | Nov 2026 | 🔄 |
+| 5️⃣ Statistics & Probability (AI-assisted) | Hypothesis testing, ANOVA, Chi-square, AI-assisted interpretation | Dec 2026 | ⏭️ |
+| 6️⃣ AI & Machine Learning | 18+ ML algorithms, Deep Learning (CNN/RNN/LSTM), GenAI, RAG, LLM workflows, model deployment | Jan 2027 | ⏭️ |
 
 **Capstone highlights building toward:** ML-powered credit risk & churn prediction models, demand forecasting systems, and LLM-powered apps (chatbots, semantic search) deployed via Flask/Streamlit/Gradio.
 
