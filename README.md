@@ -148,6 +148,7 @@ Pursuing the **Advanced Certificate in Data Science** (upGrad) — a 6-module, G
 
 | Certification | Issuer | Year | 
 |---|---|---|
+| 🥇 **Pandas Badge** | LeetCode | Nov 2026 |
 | 🏆 **Python (Basic) Certificate** | HackerRank | Nov 2026 |
 | 🥇 **Data Navigator Badge** | LeetCode | Oct 2026 |
 | 🏆 **SQL (Advanced) Certificate** | HackerRank | Oct 2026 |
