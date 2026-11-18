@@ -87,6 +87,13 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 | 🛍️ **[Myntra E-commerce SQL Analysis](https://github.com/JEISAMATHEW/Myntra-Ecommerce-SQL-Analysis)** | Built a self-designed e-commerce database in MySQL with customers, products, employees and orders, then developed 17 sections of queries covering sales trends, product profitability, employee target achievement and customer behavior using joins, subqueries, CTEs, window functions, stored procedures and business KPI reporting |
 | 🍔 **[QuickBite Food Delivery SQL Analysis](https://github.com/JEISAMATHEW/QuickBite-Food-Delivery-SQL-Analysis)** | Designed a self-built food delivery database in MySQL with customers, restaurants, menu items, delivery partners and orders, then developed 20 SQL business questions covering revenue trends, restaurant profitability, delivery partner performance and customer behavior using joins, subqueries, CTEs, window functions, KPI reporting, views and query optimization with `EXPLAIN` |
 
+
+**4️⃣ Python for Data Analysis**
+
+| Project | Description |
+|---|---|
+| [Superstore Sales Data Analysis](https://github.com/JEISAMATHEW/python-sales-data-analyzer) | Pure Python analysis of 9,994 retail order lines using the csv module, dictionaries and functions. Covers sales and profit by region, category and sub-category, top products, discount impact on profit, and yearly trends, with written insights and recommendations. |
+
 > 🔗 *Individual Projects, codes are hosted in the GitHub Itself*
 
 ### 🤖 AI & Data Science Internship Projects
