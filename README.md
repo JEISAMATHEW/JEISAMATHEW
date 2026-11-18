@@ -92,7 +92,7 @@ To grow as a **Tableau Developer and Data Analyst**, building toward a future in
 
 | Project | Description |
 |---|---|
-| [Superstore Sales Data Analysis](https://github.com/JEISAMATHEW/python-sales-data-analyzer) | Pure Python analysis of 9,994 retail order lines using the csv module, dictionaries and functions. Covers sales and profit by region, category and sub-category, top products, discount impact on profit, and yearly trends, with written insights and recommendations. |
+| 🛒 **[Superstore Sales Data Analysis](https://github.com/JEISAMATHEW/Superstore_Sales_Analysis)** | Pure Python analysis of 9,994 retail order lines using the csv module, dictionaries and functions. Covers sales and profit by region, category and sub-category, top products, discount impact on profit, and yearly trends, with written insights and recommendations. |
 
 > 🔗 *Individual Projects, codes are hosted in the GitHub Itself*
 
